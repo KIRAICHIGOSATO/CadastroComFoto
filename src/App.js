@@ -4,12 +4,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZ61FevkRZCU58zK8mEpAElK3fCicqmjBiQ&usqp=CAU" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Nome: Augusto Bananinha 
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          Idade: 40 anos 
         </p>
         <p>
           <a
@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Profissão: Professor e Programador
           </a>
         </p>
       </header>
@@ -27,3 +27,4 @@ function App() {
 }
 
 export default App;
+
